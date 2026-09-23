@@ -1,0 +1,23 @@
+{
+  "name": "recursion",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/olgacoz/recursion#readme",
+  "bugs": {
+    "url": "https://github.com/olgacoz/recursion/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olgacoz/recursion.git"
+  },
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.5.2",
+    "nodemon": "^3.1.14"
+  }
+}
